@@ -19,4 +19,6 @@ This repository contains the backend implementation of a Patient-Doctor Appointm
 1. **Dependencies Installation:**
    ```bash
    npm install
-# Doctor-Appointment-API
+### ERD of the project
+
+![ERD](./ERD-2.png)
